@@ -17,7 +17,7 @@ var webpackNumbers;
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"hoge\": () => (/* binding */ hoge)\n/* harmony export */ });\nfunction hoge() {\n  alert('hello world')\n}\n\n\n//# sourceURL=webpack://webpackNumbers/./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"hoge\": () => (/* binding */ hoge)\n/* harmony export */ });\nfunction hoge() {\n  return 'hello world';\n}\n\n\n//# sourceURL=webpack://webpackNumbers/./src/index.js?");
 
 /***/ })
 

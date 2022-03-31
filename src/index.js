@@ -1,3 +1,3 @@
 export function hoge() {
-  alert('hello world')
+  return 'hello world';
 }
