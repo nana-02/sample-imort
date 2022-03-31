@@ -1,7 +1,3 @@
-const hoge = () => {
+export function hoge() {
   return 'hello world';
 }
-
-module.exports = {
-  hoge
-};
