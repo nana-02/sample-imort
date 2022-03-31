@@ -1,4 +1,4 @@
-export function hoge() {
+const hoge = () => {
   return 'hello world';
 }
 
